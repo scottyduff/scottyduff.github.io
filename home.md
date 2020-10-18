@@ -10,7 +10,6 @@ Including:
 
 All of the opinions are my own.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Markdown
 
