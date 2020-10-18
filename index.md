@@ -1,12 +1,14 @@
 ## Welcome to my Blog
 
-What follows is a fairly random collection of writing on topics of interest.
+What follows is a fairly random collection of writing on topics of interest to me.
 
 Including:
 - food
 - wine
 - philosophy
 - management and business
+
+All of the opinions are my own.
 
 ### Markdown
 
