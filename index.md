@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-You can use the [editor on GitHub](https://github.com/scottyduff/scottyduff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currentkky using this as a place for writing. omething I'm working on getting better at.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
